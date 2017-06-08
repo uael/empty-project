@@ -1,2 +1,2 @@
 # empty-project
-## cmake c99 project template
+cmake c99 project template
