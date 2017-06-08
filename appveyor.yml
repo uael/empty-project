@@ -5,7 +5,7 @@ platform:
   - x64
 
 environment:
-  project: u
+  project: foo
   project_sln: C:\projects\%project%\build\%project%.sln
   MSVC_DEFAULT_OPTIONS: ON
   matrix:
